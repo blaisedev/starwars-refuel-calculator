@@ -1,5 +1,4 @@
 # StarWars Refuel Calculator
-
 Starwars Refuel Calculator gives an insight on how many refuels each StarShip would need over a given distance.
 
 ## Getting Started
@@ -15,7 +14,6 @@ When build is successful use the command 'java -jar target/starwars-mglt-0.0.1-S
 Open browser and navigate to http://localhost:8080/.
 
 ### Prerequisites
-
 Java, Mavin Install
 
 To run the app add a distance in the form field to be calculated, and hit calculate.
@@ -23,22 +21,19 @@ To run the app add a distance in the form field to be calculated, and hit calcul
  
 
 ## Running the tests
-
  Navigate to src/main/test/java
  Right click com.blaisedev.starwarsmglt
  Click run tests in clicked folder
 
+## Live Application
+https://starwars-refuel-calculator.herokuapp.com
 
 ## Built With
-
-
 * [Maven](https://maven.apache.org/) - Dependency Management
 
 * Spring Boot
 
 * React
-
- 
 
 ## Powered by
 swapi.co ( StarWars)
