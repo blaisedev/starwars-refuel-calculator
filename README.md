@@ -18,10 +18,11 @@ When build is successful use the command 'java -jar target/starwars-mglt-0.0.1-S
 
 Open browser and navigate to http://localhost:8080/.
 
-
-
+####Using the application
+****************************************************************
 To run the app add a distance in the form field to be calculated, and hit calculate.
  results come back in paginated form x10 .
+ *************************************************************
  
 
 ## Running the tests
@@ -29,7 +30,8 @@ To run the app add a distance in the form field to be calculated, and hit calcul
  Right click com.blaisedev.starwarsmglt
  Click run tests in clicked folder
  
-** In command line navigate to the project folder and run mvn test
+** In command line navigate to the project folder
+   run 'mvn test'
 
 ## Live Application
 https://starwars-refuel-calculator.herokuapp.com
@@ -42,7 +44,7 @@ https://starwars-refuel-calculator.herokuapp.com
 * React
 
 ## Powered by
-swapi.co ( StarWars)
+https://swapi.co ( StarWars)
 
 ## Authors
 Blaise Devaney
